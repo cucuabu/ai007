@@ -1,7 +1,602 @@
+
 #EXTM3U
 
-#EXTINF:-1,LOCAL - [002] METRO TV
-rtp://@239.1.1.19:8088
+#LOCAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[002] USee Photo
+rtp://239.1.1.251:9498
 
-#EXTINF:-1,LOCAL - [003] Usee Info
-rtp://@239.1.2.233:9372
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[003] Usee Info
+rtp://239.1.2.126:8730
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[007] Usee Otomoto
+rtp://239.1.1.252:9486
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Local Channel",[088] Usee Prime
+rtp://239.1.1.216:9270
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/TVRI_Logo.png" group-title="Local Channel",[100] TVRI
+rtp://239.1.1.37:8196
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20140425125902%21New_MetroTV_Logo_2010.png" group-title="Local Channel",[101] Metro TV
+rtp://239.1.1.19:8088
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Local Channel",[102] CNN Indonesia
+rtp://239.1.1.241:9362
+
+#EXTINF:-1 tvg-logo="http://www.tvonenews.tv/assets/img/element/logo-tvone-transp.png" group-title="Local Channel",[103] TV One
+rtp://239.1.1.31:8160
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="Local Channel",[104] TRANSTV
+rtp://239.1.1.27:8136
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="Local Channel",[105] TRANS7
+rtp://239.1.1.29:8148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="Local Channel",[107] SCTV
+rtp://239.1.1.21:8100
+
+#EXTINF:-1 tvg-logo="http://www.an.tv/app/uploads/2017/07/Logo-Antv-Viva.png" group-title="Local Channel",[108] ANTV
+rtp://239.1.1.15:8064
+
+#EXTINF:-1 tvg-logo="http://www.indosiar.com/assets/img/logo-indosiar.png" group-title="Local Channel",[109] INDOSIAR
+rtp://239.1.1.17:8076
+
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="Local Channel",[112] NET.
+rtp://239.1.1.119:8688
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="Local Channel",[114] Kompas TV
+rtp://239.1.1.197:9156
+
+#EXTINF:-1 tvg-logo="http://www.beritasatu.com/assets/desktop/v2/images/logo-gede.png" group-title="Local Channel",[115]Berita Satu
+rtp://239.1.1.183:9072
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png" group-title="Local Channel",[116] Jak TV
+rtp://239.1.1.107:8616
+
+#EXTINF:-1 tvg-logo="http://jakartafair.co.id/4dm1njfk/assets/uploads/media-partner/fa5fe51d8e3a421b993e321cbfa90c.png" group-title="Local Channel",[117] O Channel
+rtp://239.1.1.218:9212
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="Local Channel",[118] RTV
+rtp://239.1.1.69:8388
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/thestartupchannel.id/wp-content/uploads/2017/02/StartUp-Logo-Header-iloveimg-resized.png?fit=125%2C85&ssl=1" group-title="Local Channel",[119] StartUP Channel
+rtp://239.1.2.248:9398
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png" group-title="Local Channel",[120] Daai TV
+rtp://239.1.1.179:9048
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="Local Channel",[122] Bali TV
+rtp://239.1.1.72:8406
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/800px-JTV_%282012%29.svg.png" group-title="Local Channel",[123] JTV
+rtp://239.1.1.6:8010
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Antara_logo.svg/800px-Antara_logo.svg.png" group-title="Local Channel",[124] Antara TV
+rtp://239.1.1.128:9218
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/06/INtv_Banten.png/800px-INtv_Banten.png" group-title="Local Channel",[125] INTV
+rtp://239.1.1.162:8946
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AdVMWk6Zx40/VsMo1FumNuI/AAAAAAAABek/4PFRQhSxtLY/s1600/CZpDvXKWcAAaHwG.png" group-title="Local Channel",[126] Bandung TV
+rtp://239.1.1.176:9030
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="Local Channel",[127] TV Edukasi
+rtp://239.1.1.39:8208
+
+#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png" group-title="Local Channel",[128] GlobalTV
+https://cdn-livetv.metube.id/hls/globaltv.m3u8
+
+#EXTINF:-1 tvg-logo="http://webcms.mncgroup.com/timthumb.php?zc=3&w=180&h=33&src=/app/webroot/files/mnctv/FA-LOGO-26_straight_crop.png" group-title="Local Channel",[129] MNC TV
+https://cdn-livetv.metube.id/hls/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Local Channel",[130] RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2e/INews_TV_logo.png" group-title="Local Channel",[131] iNews TV
+https://cdn-livetv.metube.id/hls/inewstv_480/index.m3u8
+
+
+#KNOWLEDGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="KNOWLEDGE",[201] National Geographic
+rtp://239.1.1.169:8988
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png" group-title="KNOWLEDGE",[202] National Geographic Wild
+rtp://239.1.1.35:8184
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="KNOWLEDGE",[203] Crime & Investigations
+rtp://239.1.1.59:8328
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="KNOWLEDGE",[204] CGTN Documentary
+rtp://239.1.1.121:8700
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/History_channel_us.png" group-title="KNOWLEDGE",[205] History
+rtp://239.1.1.57:8316
+
+#EXTINF:-1 tvg-logo="http://n.sinaimg.cn/97973/transform/20160721/_RXX-fxuifip2506577.png" group-title="KNOWLEDGE",[206] Panda TV
+rtp://239.1.1.208:9502
+
+
+#KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="KIDS",[300] Dunia Anak
+rtp://239.1.1.7:8016
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160" group-title="KIDS",[301] Disney Channel
+rtp://239.1.1.45:8244
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="KIDS",[302] Disney Junior
+rtp://239.1.1.47:8256
+
+#EXTINF:-1 tvg-logo="https://www.davincimedia.tv/sites/all/themes/davincimedia/images/Kids%20Logo-Yellow.png" group-title="KIDS",[303] Da Vinci Learning
+rtp://239.1.1.99:8568
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/600px-Nickelodeon_logo_new.svg.png" group-title="KIDS",[304] Nickelodeon
+rtp://239.1.1.41:8220
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Old_Nick_Jr_logo.png" group-title="KIDS",[305] Nick Jr.
+rtp://239.1.1.159:8928
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg/1280px-CN_logo_with_white_C_on_black_background_and_black_N_on_white_background.svg.png" group-title="KIDS",[306] Carton Network
+rtp://239.1.1.123:8712
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" group-title="KIDS",[307] Toonami
+rtp://239.1.1.143:8832
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS",[308] Boomerang
+rtp://239.1.1.73:8412
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/600px-Duck_tv.png" group-title="KIDS",[309] Duck TV
+rtp://239.1.1.63:8352
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" group-title="KIDS",[310] DreamWorks
+rtp://239.1.1.139:8808
+
+#EXTINF:-1 tvg-logo="https://www.babyfirsttv.com/store/media/extendware/ewimageopt/media/skin/e7/f/LOGO_sm.png" group-title="KIDS",[311] BabyFirst
+rtp://239.1.1.157:8916
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9a/KAKU_logo.png" group-title="KIDS",[313] kaku少儿
+rtp://239.1.1.214:9514
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="KIDS",[314] SpaceToon
+rtp://239.1.1.254:9338
+
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/HOREE_web.png" group-title="KIDS",[315] Horee!
+rtp://239.1.1.68:8382
+
+
+#LIFESTYLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" group-title="LIFESTYLE",[401] fyi
+rtp://239.1.1.61:8340
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9a/Eat_%26_Go_Transvision.png" group-title="LIFESTYLE",[403] Eat and Go
+rtp://239.1.1.229:9350
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/800px-Fashion_TV_logo.svg.png" group-title="LIFESTYLE",[404] Fashion TV
+rtp://239.1.1.79:8448
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="LIFESTYLE",[405] Nat Geo People
+rtp://239.1.1.67:8376
+
+#EXTINF:-1 tvg-logo="http://www.fashionone.com/images/2015/mobile-global/logowithf.png" group-title="LIFESTYLE",[408] Fashion One
+rtp://239.1.1.127:8736
+
+
+#MUSIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/800px-MTV_Logo.svg.png" group-title="MUSIC",[450] MTV
+rtp://239.1.1.5:8004
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/C_Music_TV.png" group-title="MUSIC",[451] C Music
+rtp://239.1.1.77:8436
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/800px-Channel_V_Logo.svg.png" group-title="MUSIC",[452] Channel[V]
+rtp://239.1.1.173:9012
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/ad/Prambors.png" group-title="MUSIC",[453] PRAMBORS
+rtp://239.1.1.227:9336
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/T-Music_Transvision.png" group-title="MUSIC",[454] T MUSIC
+rtp://239.1.1.163:8952
+
+
+#GEN ENT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/800px-E%21_Logo.svg.png" group-title="Gen Entertainment",[500] E!Entertainment
+rtp://239.1.1.145:8844
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="Gen Entertainment",[501] DIVA
+rtp://239.1.1.51:8280
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Gen Entertainment",[502] Animax
+rtp://239.1.2.157:8916
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a1/Insert_Transvision.png" group-title="Gen Entertainment",[503] INSERT
+rtp://239.1.1.113:8652
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/FOX_Life_%282017%29.png" group-title="Gen Entertainment",[504] FOX Life
+rtp://239.1.1.171:9000
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="Gen Entertainment",[505] Lifetime
+rtp://239.1.1.181:9260
+
+#EXTINF:-1 tvg-logo="http://ultimatebrocation.kix-tv.com/images/kix-logo-dark.png" group-title="Gen Entertainment",[506] KIX
+rtp://239.1.1.81:8460
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Gen Entertainment",[509] AXN
+rtp://239.1.1.137:8796
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/800px-TV5Monde_Logo.svg.png" group-title="Gen Entertainment",[510] TV5MONDE
+rtp://239.1.1.55:8300
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Gen Entertainment",[511] SONY Channel
+rtp://239.1.1.141:8820
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" group-title="Gen Entertainment",[512] FOX
+rtp://239.1.1.43:8232
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="Gen Entertainment",[513] FOX Crime
+rtp://239.1.1.161:8940
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="Gen Entertainment",[514] FX
+rtp://239.1.1.1:7980
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/800px-Comedy_Central_2011_Logo.svg.png" group-title="Gen Entertainment",[515] Comedy Central
+rtp://239.1.1.9:8028
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="Gen Entertainment",[516] TVN
+rtp://239.1.1.135:8784
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png" group-title="Gen Entertainment",[517] KBS World
+rtp://239.1.1.167:8976
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/aniplus-logo.png" group-title="Gen Entertainment",[518] Aniplus
+rtp://239.1.1.117:8676
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="Gen Entertainment",[519] NHK World Premium
+rtp://239.1.1.165:8964
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="Gen Entertainment",[520] WakuWaku Japan
+rtp://239.1.1.75:8424
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Gen Entertainment",[521] Star Chinese
+rtp://239.1.1.153:8892
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="Gen Entertainment",[523] K-Plus
+rtp://239.1.1.242:9426
+
+#EXTINF:-1 tvg-logo="" group-title="Gen Entertainment",[524] iCNTV Popular Ent
+rtp://239.1.1.210:9506
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png" group-title="Gen Entertainment",[525] Hi Indo
+rtp://239.1.1.240:9348
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/Dunia_Lain_Transvision.png" group-title="Gen Entertainment",[527] Dunia Lain
+rtp://239.1.1.149:8868
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Tahan_Tawa_Transvision.png" group-title="Gen Entertainment",[528] Tahan Tawa
+rtp://239.1.1.231:9362
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/800px-Showtime%27s_Showcase_logo.svg.png" group-title="Gen Entertainment",[529] Showcase
+rtp://239.1.1.225:9326
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/142_300.png" group-title="Gen Entertainment",[530] Pelangi
+rtp://239.1.1.110:8634
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png" group-title="Gen Entertainment",[531] A+ Australian Plus
+rtp://239.1.1.33:8172
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/800px-Arirang.svg.png" group-title="Gen Entertainment",[532] Arirang
+rtp://239.1.1.147:8856
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/800px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" group-title="Gen Entertainment",[533] CCTV 4
+rtp://239.1.1.115:8664
+
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRADRAMA.png" group-title="Gen Entertainment",[534] Citra Drama
+rtp://239.1.1.44:8238
+
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/04/CITRAENTERTAINMENT2.png" group-title="Gen Entertainment",[535] Citra Entertainment
+rtp://239.1.1.109:8628
+
+#EXTINF:-1 tvg-logo="https://oneasiaa.files.wordpress.com/2011/02/mnet_logo11.png" group-title="Gen Entertainment",[578] Channel M
+rtp://239.1.2.135:8784
+
+#EXTINF:-1 tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="Gen Entertainment",[584] SyFy
+rtp://239.1.2.49:8268
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png" group-title="Gen Entertainment",[585] Universal
+rtp://239.1.2.85:8484
+
+
+
+#MOVIES
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" group-title="MOVIES",[600] Flik
+rtp://239.1.1.71:8400
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="MOVIES",[601] HBO
+rtp://239.1.1.95:8544
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" group-title="MOVIES",[602] HBO Signature
+rtp://239.1.1.93:8532
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIES",[603] CINEMAX
+rtp://239.1.1.87:8496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",[604] HBO Hits
+rtp://239.1.1.91:8520
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/800px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",[605] HBO Family
+rtp://239.1.1.89:8508
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png" group-title="MOVIES",[606] AMC Channel
+rtp://239.1.1.111:8640
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/800px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",[607] FOX Movies
+rtp://239.1.1.11:8040
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b5/Fox_Family_Movies_Logo.svg.png" group-title="MOVIES",[608] FOX Family Movies
+rtp://239.1.1.175:9024
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/800px-FOX_Action_Movies_%282017%29.png" group-title="MOVIES",[609] FOX Action Movies
+rtp://239.1.1.125:8724
+
+#EXTINF:-1 tvg-logo="http://www.nexmedia.co.id/wp-content/uploads/2017/01/thrill.png" group-title="MOVIES",[610] Thrill
+rtp://239.1.1.83:8472
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="MOVIES",[611] Celestial Movies
+rtp://239.1.1.97:8558
+
+#EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="MOVIES",[612] Star Chinese Movies
+rtp://239.1.1.131:8760
+
+#EXTINF:-1 tvg-logo="ette4.wikia.nocookie.net/logopedia/images/2/28/Star_chinese_movies_legend.png" group-title="MOVIES",[613] Star Chinese Movies Legend
+rtp://239.1.1.151:8880
+
+#EXTINF:-1 tvg-logo="http://www.televisionpost.com/wp-content/uploads/2013/12/zee_bioskop.png" group-title="MOVIES",[614] Z Bioskop
+rtp://239.1.1.129:8748
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",[615] Cinema World
+rtp://239.1.1.189:9108
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="MOVIES",[616] RED by HBO
+rtp://239.1.1.114:8658
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",[617] GALAXY
+rtp://239.1.1.184:8778
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/96/Bioskop_Indonesia_Transvision.png" group-title="MOVIES",[618] Bioskop Indonesia
+rtp://239.1.1.226:9332
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",[619] iCNTV Chinese Ancent
+rtp://239.1.1.212:9510
+
+
+#SPORT
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png" group-title="SPORT",[701] BEIN Sports
+rtp://239.1.1.217:9204
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B2E/bein-sports-2-hero.png" group-title="SPORT",[702] BEIN Sports 2
+rtp://239.1.1.221:9300
+
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-hero.png" group-title="SPORT",[703] BEIN Sports 3
+rtp://239.1.1.223:9312
+
+#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" group-title="SPORT",[704] Fight Sport
+rtp://239.1.1.177:9036
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/800px-FOX_Sports_logo.svg.png" group-title="SPORT",[705] FOX Sport 
+rtp://239.1.1.103:8592
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png" group-title="SPORT",[706] FOX Sport 2
+rtp://239.1.1.101:8580
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/800px-Fox_sports_3_logo.svg.png" group-title="SPORT",[707] FOX Sport 3
+rtp://239.1.1.53:8292
+
+
+#NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/800px-Euronews_2016_logo.svg.png" group-title="NEWS",[800] Euronews
+rtp://239.1.1.193:9132
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8b/Cnn.svg/800px-Cnn.svg.png" group-title="NEWS",[801] CNN
+rtp://239.1.1.105:8604
+
+#EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/Bloomberg-TV-News.png" group-title="NEWS",[802] Bloomberg TV Asia
+rtp://239.1.1.199:9168
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png" group-title="NEWS",[803] CNBC Asia
+rtp://239.1.1.155:8904
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/800px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="NEWS",[804] Channel News Asia
+rtp://239.1.1.65:8364
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/800px-Aljazeera_eng.svg.png" group-title="NEWS",[805] Al-jazeera
+rtp://239.1.1.195:9144
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="NEWS",[806] France 24
+rtp://239.1.1.191:9120
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/japanique.jp/wp-content/uploads/2017/01/NHK_World_Japan.png" group-title="NEWS",[806] NHK World Japan
+rtp://239.1.1.236:9390
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/800px-Deutsche_Welle_symbol_2012.svg.png" group-title="NEWS",[808] DW TV
+rtp://239.1.1.187:9096
+
+
+#RELIGIOUS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-G8AiREdNvYI/V4JSsE4HoZI/AAAAAAAAEBc/nN0nIrUiovcKjftgJqxvXgh3QM0P57kwgCLcB/s1600/al_quran_al_kareem_tv.png" group-title="RELIGIOUS",[850] Al Quran Al Kareem
+rtp://239.1.1.185:9084
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGIOUS",[851] Khazanah
+rtp://239.1.1.230:9356
+
+#EXTINF:-1 tvg-logo="http://rodja.tv/web/wp-content/uploads/logo-rodjatv.png" group-title="RELIGIOUS",[852] Rodja TV
+rtp://239.1.1.224:9320
+
+#EXTINF:-1 tvg-logo="http://mtatv.net/v3/wp-contents/uploads/logo.png" group-title="RELIGIOUS",[853] MTA TV
+rtp://239.1.1.238:9400
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/800px-Logo_MQTV.png" group-title="RELIGIOUS",[854] MQTV
+rtp://239.1.1.213:9252
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6ncwuKp3vbg/V8eXE-q1e3I/AAAAAAAAAgo/3AoBGXJMKPQL429shl3Z5gabMgckTEY5gCLcB/s400/tv9-logo.png" group-title="RELIGIOUS",[855] TV9
+rtp://239.1.1.150:8874
+
+
+#HD Channel
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" group-title="HD Channel",[910] NET. HD
+rtp://239.1.1.158:8922
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="HD Channel",[911] TransTV HD
+rtp://239.1.1.194:9138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Trans_7_2013.svg/800px-Trans_7_2013.svg.png" group-title="HD Channel",[912] Trans7 HD
+rtp://239.1.1.222:9306
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="HD Channel",[913] CNN Indonesia HD
+rtp://239.1.1.180:9054
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/800px-SCTV_Logo.svg.png" group-title="HD Channel",[914] SCTV HD
+rtp://239.1.2.58:8324
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="HD Channel",[920] National Geographic HD
+rtp://239.1.1.243:9432
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="HD Channel",[921] Nat Goe Wild HD
+rtp://239.1.1.207:9216
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/History_HD.png" group-title="HD Channel",[922] History HD
+rtp://239.1.1.23:8112
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="HD Channel",[930] Disney Channel HD
+rtp://239.1.1.201:9180
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" group-title="HD Channel",[932] DreamWork HD
+rtp://239.1.1.234:9222
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" group-title="HD Channel",[935] TOONAMI HD
+rtp://239.1.2.251:9384
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/FTV_HD_2009.png" group-title="HD Channel",[940] FTV HD
+rtp://239.1.2.237:9180
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/725_300.png" group-title="HD Channel",[941] Nat Goe People HD
+rtp://239.1.2.229:9330
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/800px-Channel_V_Logo.svg.png" group-title="HD Channel",[942] Channel[V] HD
+rtp://239.1.2.235:9342
+
+#EXTINF:-1 tvg-logo="http://condista.com/wp-content/uploads/2016/05/fashion-one-hd-680x328.png" group-title="HD Channel",[947] Fashion One HD
+rtp://239.1.1.14:8058
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/af/Fox_Life_HD_old.png" group-title="HD Channel",[950] FOX Life HD
+rtp://239.1.1.209:9228
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Fox_hd.png" group-title="HD Channel",[951] FOX HD
+rtp://239.1.1.247:9440
+
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png" group-title="HD Channel",[952] K-Plus HD
+rtp://239.1.1.202:9186
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="HD Channel",[953] NHK World Premium HD
+rtp://239.1.1.174:9018
+
+#EXTINF:-1 tvg-logo="http://tough.kix-tv.com/Public/images/kix-hd-logo.png" group-title="HD Channel",[954] KIX HD
+rtp://239.1.2.207:9190
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="HD Channel",[955] TVN HD
+rtp://239.1.2.211:9202
+
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="HD Channel",[956] FOX Crime HD
+rtp://239.1.2.225:9318
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png" group-title="HD Channel",[957] FX HD
+rtp://239.1.2.227:9324
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="HD Channel",[958] KBS World HD
+rtp://239.1.1.13:8052
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="HD Channel",[959] Wakuwaku Japan HD
+rtp://239.1.1.244:9434
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="HD Channel",[960] AXN HD
+rtp://239.1.1.245:9436
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="HD Channel",[961] DIVA HD
+rtp://239.1.1.24:8118
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Lifetime_us_hd.png/revision/latest/scale-to-width-down/800" group-title="HD Channel",[962] Lifetime HD
+rtp://239.1.1.25:8124
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/E%21_Entertainment_HD.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[963] E!Entertainment HD
+rtp://239.1.1.26:8130
+
+#EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="HD Channel",[968] Star Chinese Movies HD
+rtp://239.1.2.231:9336
+
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" group-title="HD Channel",[970] BEIN Sports HD
+rtp://239.1.1.248:9494
+
+#EXTINF:-1 tvg-logo="http://showsport-tv.com/images/channels/be2.png" group-title="HD Channel",[971] BEIN Sports 2 HD
+rtp://239.1.1.249:9496
+
+#EXTINF:-1 tvg-logo="http://showsport-tv.com/images/channels/be3.png" group-title="HD Channel",[972] BEIN Sports 3 HD
+rtp://239.1.1.205:9204
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Fox_Sports_HD.png" group-title="HD Channel",[973] FOX Sport HD
+rtp://239.1.2.201:9174
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[974] FOX Sport 2 HD
+rtp://239.1.2.203:9180
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[975] FOX Sport 3 HD
+rtp://239.1.2.205:9186
+
+#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" group-title="HD Channel",[976] Fight Sport HD
+rtp://239.1.2.209:9196
+
+#EXTINF:-1 tvg-logo="http://www.genserv-ph.com/assets/img/sattv/nhkworld.png" group-title="HD Channel",[980] NHK World HD
+rtp://239.1.2.239:9354
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/800px-Deutsche_Welle_symbol_2012.svg.png" group-title="HD Channel",[981] DW HD
+rtp://239.1.2.243:9360
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" group-title="HD Channel",[982] CNN HD
+rtp://239.1.1.246:9438
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" group-title="HD Channel",[973] FLiK HD
+rtp://239.1.1.239:9276
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="HD Channel",[991] HBO HD
+rtp://239.1.1.203:9192
+ 
+#EXTINF:-1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/09/hbohd.jpg" group-title="HD Channel",[992] HBO Hits HD
+rtp://239.1.1.215:9264
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" group-title="HD Channel",[993] HBO Signature HD
+rtp://239.1.2.249:9378
+
+#EXTINF:-1 tvg-logo="http://www.tricom.net/sites/default/files/logos/HBOFamilyHD.png" group-title="HD Channel",[994] HBO Family HD
+rtp://239.1.2.245:9366
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="HD Channel",[995] RED by HBO HD
+rtp://239.1.1.133:8772
+
+#EXTINF:-1 tvg-logo="http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/cineamaxhd.png" group-title="HD Channel",[996] CINEMAX HD
+rtp://239.1.2.247:9372
+
+#EXTINF:-1 tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="HD Channel",[997] FOX Family Movies HD
+rtp://239.1.1.237:9396
+
+#EXTINF:-1 tvg-logo="http://static.myhdmedia.co/hd/channels/Movies/dark/foxmovies.png" group-title="HD Channel",[998] FOX Movies HD
+rtp://239.1.1.211:9240
+
+#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/image008.png" group-title="HD Channel",[999] FOX Action Movies HD
+rtp://239.1.1.190:9116
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="HD Channel",Star Wold HD
+rtp://239.1.1.209:9228
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox%20Movies%20HD.png" group-title="HD Channel",Fox Movie Premium HD
+rtp://239.1.1.211:9240
+
+
+
+
+
