@@ -470,8 +470,8 @@ rtp://239.1.1.201:9180
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/The_DreamWorks_Channel.png" group-title="HD Channel",[932] DreamWork HD
 rtp://239.1.1.234:9222
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" group-title="HD Channel",[935] TOONAMI HD
-rtp://239.1.2.251:9384
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toonami_2014_logo_vector.svg/2000px-Toonami_2014_logo_vector.svg.png" group-title="HD Channel",[935] ONE
+rtp://239.1.2.21:8100
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/FTV_HD_2009.png" group-title="HD Channel",[940] FTV HD
 rtp://239.1.2.237:9180
