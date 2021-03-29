@@ -1,0 +1,297 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [001] TVRI   rtp://239.1.1.37:8196
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [002] Metro TV   rtp://239.1.1.19:8088
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [003] TV One   rtp://239.1.1.31:8160
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [004] Trans TV   rtp://239.1.1.27:8136
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [005] ANIMAX HD   rtp://239.1.1.29:8148
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [006] ANTV   rtp://239.1.1.15:8064
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [007] Kompas TV   rtp://239.1.1.197:9156
+#EXTINF:-1 tvg-logo=" " group-title="  [008] Panda TV   rtp://239.1.1.208:9502
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [009] Jak TvPIP   rtp://239.1.1.108:8622
+#EXTINF:-1 tvg-logo=" " group-title=" KNOWLEDGE", [010] National Geographic   rtp://239.1.1.169:8988
+#EXTINF:-1 tvg-logo=" " group-title=" KNOWLEDGE", [011] National Geographic Wild   rtp://239.1.1.35:8184
+#EXTINF:-1 tvg-logo=" " group-title=" KNOWLEDGE", [012] CrimeInvestigations   rtp://239.1.1.59:8328
+#EXTINF:-1 tvg-logo=" " group-title="  [013] History Channel   rtp://239.1.1.57:8316
+#EXTINF:-1 tvg-logo=" " group-title="  [014] Disney Channel   rtp://239.1.1.45:8244
+#EXTINF:-1 tvg-logo=" " group-title="  [015] Disney Junior   rtp://239.1.1.47:8256
+#EXTINF:-1 tvg-logo=" " group-title="  [016] Da Vinci Learning   rtp://239.1.1.99:8568
+#EXTINF:-1 tvg-logo=" " group-title="  [017] Nickelodeon   rtp://239.1.1.41:8220
+#EXTINF:-1 tvg-logo=" " group-title="  [018] Nick JR   rtp://239.1.1.159:8928
+#EXTINF:-1 tvg-logo=" " group-title="  [019] Cartoon Network   rtp://239.1.1.123:8712
+#EXTINF:-1 tvg-logo=" " group-title="  [020] Boomerang   rtp://239.1.1.73:8412
+#EXTINF:-1 tvg-logo=" " group-title="  [021] Fashion TV   rtp://239.1.1.79:8448
+#EXTINF:-1 tvg-logo=" " group-title=" KNOWLEDGE", [022] Nat Geo People   rtp://239.1.1.67:8376
+#EXTINF:-1 tvg-logo=" " group-title="  [023] TV Live   rtp://239.1.1.5:8004
+#EXTINF:-1 tvg-logo=" " group-title="  [024] Channel V   rtp://239.1.1.173:9012
+#EXTINF:-1 tvg-logo=" " group-title="  [025] FOX Life   rtp://239.1.1.171:9000
+#EXTINF:-1 tvg-logo=" " group-title="  [026] Lifetime   rtp://239.1.1.181:9266
+#EXTINF:-1 tvg-logo=" " group-title="  [027] KIX   rtp://239.1.1.81:8460
+#EXTINF:-1 tvg-logo=" " group-title="  [028] AXN   rtp://239.1.1.137:8796
+#EXTINF:-1 tvg-logo=" " group-title="  [029] Blue Ant Entertaiment   rtp://239.1.1.141:8820
+#EXTINF:-1 tvg-logo=" " group-title="  [030] FOX   rtp://239.1.1.43:8232
+#EXTINF:-1 tvg-logo=" " group-title="  [031] TvN   rtp://239.1.1.135:8784
+#EXTINF:-1 tvg-logo=" " group-title="  [032] KBS World   rtp://239.1.1.167:8976
+#EXTINF:-1 tvg-logo=" " group-title="  [033] Aniplus   rtp://239.1.1.117:8676
+#EXTINF:-1 tvg-logo=" " group-title="  [034] NHK World Premium   rtp://239.1.1.165:8964
+#EXTINF:-1 tvg-logo=" " group-title="  [035] WakuWaku Japan   rtp://239.1.1.75:8424
+#EXTINF:-1 tvg-logo=" " group-title="  [036] Star Chinese   rtp://239.1.1.153:8892
+#EXTINF:-1 tvg-logo=" " group-title="  [037] HBO   rtp://239.1.1.95:8544
+#EXTINF:-1 tvg-logo=" " group-title="  [038] HBO Signature   rtp://239.1.1.93:8532
+#EXTINF:-1 tvg-logo=" " group-title="  [039] CINEMAX   rtp://239.1.1.87:8496
+#EXTINF:-1 tvg-logo=" " group-title="  [040] HBO Hits   rtp://239.1.1.91:8520
+#EXTINF:-1 tvg-logo=" " group-title="  [041] HBO Family   rtp://239.1.1.89:8508
+#EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [042] FOX MOVIES   rtp://239.1.1.11:8040
+#EXTINF:-1 tvg-logo=" " group-title="  [043] FOX Family   rtp://239.1.1.175:9024
+#EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [044] FOX Action Movies   rtp://239.1.1.125:8724
+#EXTINF:-1 tvg-logo=" " group-title="  [045] Thrill   rtp://239.1.1.83:8472
+#EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [046] Celestial Movies   rtp://239.1.1.97:8556
+#EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [047] Star Chinese Movie   rtp://239.1.1.131:8760
+#EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [048] Star Chinese Movie Legend   rtp://239.1.1.151:8880
+#EXTINF:-1 tvg-logo=" " group-title="  [049] Z Bioskop   rtp://239.1.1.129:8748
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [050] ANIMAX HD   rtp://239.1.1.217:9204
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [051] ANIMAX HD   rtp://239.1.1.221:9300
+#EXTINF:-1 tvg-logo=" " group-title=" Sports Channel", [052] Fight Sports   rtp://239.1.1.177:9036
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [053] ANIMAX HD   rtp://239.1.1.53:8292
+#EXTINF:-1 tvg-logo=" " group-title="  [054] CNN   rtp://239.1.1.105:8604
+#EXTINF:-1 tvg-logo=" " group-title="  [055] Bloomberg   rtp://239.1.1.199:9168
+#EXTINF:-1 tvg-logo=" " group-title="  [056] CNA   rtp://239.1.1.65:8364
+#EXTINF:-1 tvg-logo=" " group-title="  [057] Al Jazeera   rtp://239.1.1.195:9144
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [058] ANIMAX HD   rtp://239.1.1.191:9120
+#EXTINF:-1 tvg-logo=" " group-title="  [059] DWTV   rtp://239.1.1.187:9096
+#EXTINF:-1 tvg-logo=" " group-title="  [060] ABC Australia   rtp://239.1.1.33:8172
+#EXTINF:-1 tvg-logo=" " group-title="  [061] Arirang   rtp://239.1.1.147:8856
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [062] ANIMAX HD   rtp://239.1.1.115:8664
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [063] ANIMAX HD   rtp://239.1.1.116:8670
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [064] HBO HD",UserChannelID=   rtp://239.1.1.203:9192
+#EXTINF:-1 tvg-logo=" " group-title="  [065] Fashion One   rtp:/239.1.1.127:8736
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [066] ONE HD   rtp://239.1.2.21:8100
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [067] GEM HD   rtp://239.1.2.18:8082
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [068] IMC HD   rtp://239.1.1.145:8844
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [069] GALAXY HD   rtp://239.1.1.136:8790
+#EXTINF:-1 tvg-logo=" " group-title="  [070] AFN   rtp://239.1.2.12:8046
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [071] ANIMAX HD   rtp:
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [072] AFN HD   rtp://239.1.2.13:8052
+#EXTINF:-1 tvg-logo=" " group-title="  [073] U Channel   rtp://239.1.1.220:9522
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [074] GALAXY PREMIUM HD   rtp://239.1.2.100:9518
+#EXTINF:-1 tvg-logo=" " group-title="  [075] Chinese Drama   rtp://239.1.2.10:8306
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [076] ANIPLUS HD",UserChannelID=   rtp://239.1.2.104:9526
+#EXTINF:-1 tvg-logo=" " group-title="  [077] Nusantara TV   rtp://239.1.2.102:9522
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [078] HBO Signature Dolby HD   rtp://239.1.2.116:9404
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [079] HBO DOLBY HD   rtp://239.1.2.114:9428
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [080] Ruang Trampil HD",UserChannelID=   rtp://239.1.1.111:8640
+#EXTINF:-1 tvg-logo=" " group-title="  [081] CTI Asia",UserChannelID=   rtp://239.1.2.200:9168
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [082] Disney Jr HD   rtp://239.1.2.75:8426
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [083] CNBC Indonesia HD   rtp://239.1.2.94:9448
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [084] NBA TVHD   rtp://239.1.2.210:9444
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [085] GOLF HD   rtp://239.1.2.214:9214
+#EXTINF:-1 tvg-logo=" " group-title="  [086] Formosa   rtp://239.1.2.198:9386
+#EXTINF:-1 tvg-logo=" " group-title="  [087] TRT World   rtp://239.1.2.84:8296
+#EXTINF:-1 tvg-logo=" " group-title="  [088] ATV   rtp://239.1.2.88:8308
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [089] IndiHome Shopping HD   rtp://239.1.2.96:9510
+#EXTINF:-1 tvg-logo=" " group-title="  [090] IndiHome Shopping   rtp://239.1.2.98:9514
+#EXTINF:-1 tvg-logo=" " group-title="  [091] CNBC Indonesia   rtp://239.1.2.92:9490
+#EXTINF:-1 tvg-logo=" " group-title="  [092] Lingua   rtp://239.1.2.90:9500
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [093] Jowo HD   rtp://239.1.2.212:9208
+#EXTINF:-1 tvg-logo=" " group-title="  [094] Jowo   rtp://239.1.2.6:8000
+#EXTINF:-1 tvg-logo=" " group-title="  [095] MY KIDZ   rtp://239.1.1.254:9338
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [096] Fox Family HD   rtp://239.1.1.237:9396
+#EXTINF:-1 tvg-logo=" " group-title="  [097] IMC   rtp://239.1.2.20:8094
+#EXTINF:-1 tvg-logo=" " group-title="  [098] Discovery Channel   rtp://239.1.2.30:8154
+#EXTINF:-1 tvg-logo=" " group-title="  [099] EBC Asia   rtp://239.1.2.196:9406
+#EXTINF:-1 tvg-logo=" " group-title="  [100] Galaxy Premium   rtp://239.1.2.240:9390
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [101] USee Prime HD   rtp://239.1.1.252:9486
+#EXTINF:-1 tvg-logo=" " group-title="  [102] TVBS   rtp://239.1.2.118:9410
+#EXTINF:-1 tvg-logo=" " group-title="  [103] Citra Dangdut   rtp://239.1.1.143:8832
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [104] UseePhoto HD   rtp://239.1.2.24:8118
+#EXTINF:-1 tvg-logo=" " group-title="  [105] Kungfu TV   rtp://239.1.2.40:8206
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [106] HGTV HD   rtp://239.1.2.34:8178
+#EXTINF:-1 tvg-logo=" " group-title="  [107] Ruang Trampil   rtp://239.1.1.126:8730
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [108] ANIMAX HD   rtp://239.1.1.150:8874
+#EXTINF:-1 tvg-logo=" " group-title="  [109] Tawaf TV   rtp://239.1.2.236:9366
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [110] Blue Ant Extreme HD   rtp://239.1.1.112:8646
+#EXTINF:-1 tvg-logo=" " group-title="  [111] Shenzen International   rtp://239.1.1.156:8910
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [112] ANIMAX HD   rtp://239.1.2.219:9244
+#EXTINF:-1 tvg-logo=" " group-title="  [113] Mozaik Channel   rtp://239.1.2.223:9268
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [114] ANIMAX HD   rtp://239.1.2.216:9226
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [115] ANIMAX HD   rtp://239.1.2.217:9232
+#EXTINF:-1 tvg-logo=" " group-title="  [116] MSHOP SUPER SALE   rtp://239.1.2.54:8298
+#EXTINF:-1 tvg-logo=" " group-title="  [117] TV MUI   rtp://239.1.2.52:8286
+#EXTINF:-1 tvg-logo=" " group-title="  [118] Usee Today   rtp://239.1.2.50:8274
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [119] ANIMAX HD   rtp://239.1.2.215:9220
+#EXTINF:-1 tvg-logo=" " group-title=" Sports Channel", [120] Usee Sport   rtp://239.1.2.42:8194
+#EXTINF:-1 tvg-logo=" " group-title=" HD Sports Channel", [121] Usee Sport HD   rtp://239.1.2.44:8122
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [122] i Konser HD   rtp://239.1.2.221:9250
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [123] ANIMAX HD   rtp://239.1.2.213:9210
+#EXTINF:-1 tvg-logo=" " group-title="  [124] IDX   rtp://239.1.2.248:9398
+#EXTINF:-1 tvg-logo=" " group-title="  [125] Cinemax Dolby   rtp://239.1.2.206:9186
+#EXTINF:-1 tvg-logo=" " group-title="  [126] i Konser   rtp://239.1.2.222:9256
+#EXTINF:-1 tvg-logo=" " group-title="  [127] HBO Hits Dolby   rtp://239.1.2.204:9182
+#EXTINF:-1 tvg-logo=" " group-title="  [128] HBO Family Dolby   rtp://239.1.2.202:9176
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [129] ANIMAX HD   rtp://239.1.2.218:9238
+#EXTINF:-1 tvg-logo=" " group-title="  [130] CNBC   rtp://239.1.1.155:8904
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [131] Cartoon Networkpip   rtp://239.1.1.124:8718
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [132] AXNpip   rtp://239.1.1.138:8802
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [133] CNA pip   rtp://239.1.1.66:8370
+#EXTINF:-1 tvg-logo=" " group-title="  [134] INSERT   rtp://239.1.1.113:8652
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [135] NickelodeonPIP   rtp://239.1.1.42:8226
+#EXTINF:-1 tvg-logo=" " group-title="  [136] TV Edukasi   rtp://239.1.1.39:8208
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [137] Z Bioskoppip   rtp://239.1.1.130:8754
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [138] TvNpip   rtp:
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [139] BLUE ANTPIP   rtp://239.1.1.142:8826
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [140] Arirang pip   rtp://239.1.1.148:8862
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [141] Fight Sportspip   rtp://239.1.1.178:9042
+#EXTINF:-1 tvg-logo=" " group-title="  [142] GOLF   rtp://239.1.1.140:8814
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [143] STAR CHINESEpip   rtp://239.1.1.154:8898
+#EXTINF:-1 tvg-logo=" " group-title="  [144] Hope   rtp://239.1.1.78:8442
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [145] Nick JRpip   rtp:/239.1.1.160:8934
+#EXTINF:-1 tvg-logo=" " group-title="  [146] EGG   rtp://239.1.1.50:8274
+#EXTINF:-1 tvg-logo=" " group-title="  [147] NHK World Japan   rtp:/239.1.1.236:9390
+#EXTINF:-1 tvg-logo=" " group-title="  [148] NBA TV   rtp://239.1.1.49:8268
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [149] TvriPip   rtp://239.1.1.38:8202
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [150] Kompas TVpip   rtp://239.1.1.198:9162
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [151] Al Jazeerapip   rtp://239.1.1.196:9150
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [152] ANIMAX HD   rtp://239.1.1.192:9126
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [153] DWpip   rtp://239.1.1.188:9102
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [154] Bloombergpip   rtp://239.1.1.200:9174
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [155] tvOnePip   rtp://239.1.1.32:8166
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [156] KBS Worldpip   rtp://239.1.1.168:8982
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [157] ANIMAX HD   rtp://239.1.1.30:8154
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [158] TRANS TVPip   rtp://239.1.1.28:8142
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [159] FOX Moviespip   rtp://239.1.1.12:8046
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [160] FASHIONpip   rtp://239.1.1.80:8454
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [161] NHK World Premiumpip   rtp://239.1.1.166:8970
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [162] Fox Sport Plus PIP   rtp://239.1.1.54:8298
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [163] Boomerangpip   rtp://239.1.1.74:8418
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [164] CGTN DocumentaryPIP   rtp://239.1.1.122:8706
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [165] LIFETIMEPIP   rtp://239.1.1.182:9066
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [166] ANIPLUSPIP   rtp://239.1.1.118:8682
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [167] Lejel Home ShoppingPip   rtp://239.1.1.4:7998
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [168] Metro TVPip   rtp://239.1.1.20:8094
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [169] antvPip   rtp://239.1.1.16:8070
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [170] WakuWaku Japanpip   rtp://239.1.1.76:8430
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [171] Crime Investigationpip   rtp://239.1.1.60:8334
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [172] History Channelpip   rtp://239.1.1.58:8322
+#EXTINF:-1 tvg-logo=" " group-title="  [173] ONE   rtp://239.1.1.172:9006
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [174] KIXpip   rtp://239.1.1.82:8466
+#EXTINF:-1 tvg-logo=" " group-title="  [175] GEM   rtp://239.1.1.86:8154
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [176] Thrillpip   rtp://239.1.1.84:8478
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [177] Discovery Channel HD   rtp://239.1.2.78:7984
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [178] CINEMAXpip   rtp://239.1.1.88:8502
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [179] Cinema World HD   rtp://239.1.2.80:8578
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [180] HBO Familypip   rtp://239.1.1.90:8514
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [181] BLUE ANT ENT HD   rtp://239.1.2.76:9310
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [182] HBO Hitspip   rtp://239.1.1.92:8526
+#EXTINF:-1 tvg-logo=" " group-title="  [183] HGTV   rtp://239.1.1.210:9506
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [184] HBO Signaturepip   rtp://239.1.1.94:8538
+#EXTINF:-1 tvg-logo=" " group-title="  [185] Zhejiang International   rtp:
+#EXTINF:-1 tvg-logo=" " group-title="  [186] Blue Ant Extreme   rtp://239.1.1.134:8778
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [187] HBOpip   rtp://239.1.1.96:8550
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [188] CNNPIP   rtp://239.1.1.106:8610
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [189] Celestial Moviespip   rtp://239.1.1.98:8562
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [190] Da Vinci Learningpip   rtp://239.1.1.100:8574
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [191] ABC Australia Pip   rtp://239.1.1.34:8178
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [192] HBOHDpip   rtp://239.1.1.204:9198
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [193] Disney Channelpip   rtp://239.1.1.46:8250
+#EXTINF:-1 tvg-logo=" " group-title=" PIP Channel", [194] Disney Juniorpip   rtp://239.1.1.48:8262
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [195] Cartoon Network HD   rtp://239.1.2.81:8083
+#EXTINF:-1 tvg-logo=" " group-title="  [196] Lejel Home Shopping Regular   rtp://239.1.1.3:7992
+#EXTINF:-1 tvg-logo=" " group-title="  [197] Indosiar   rtp://239.1.1.17:8076
+#EXTINF:-1 tvg-logo=" " group-title="  [198] SCTV   rtp://239.1.1.21:8100
+#EXTINF:-1 tvg-logo=" " group-title="  [199] RTV   rtp://239.1.1.69:8388
+#EXTINF:-1 tvg-logo=" " group-title="  [200] Flik   rtp://239.1.1.71:8400
+#EXTINF:-1 tvg-logo=" " group-title="  [201] Jak Tv   rtp://239.1.1.107:8616
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [202] ANIMAX HD   rtp://239.1.1.101:8580
+#EXTINF:-1 tvg-logo=" " group-title=" Sports Channel", [203] Fox Sport   rtp://239.1.1.103:8592
+#EXTINF:-1 tvg-logo=" " group-title="  [204] FOX Crime   rtp://239.1.1.161:8940
+#EXTINF:-1 tvg-logo=" " group-title="  [205] Al Quran Al Kareem   rtp://239.1.1.185:9084
+#EXTINF:-1 tvg-logo=" " group-title="  [206] Dunia Anak   rtp://239.1.1.7:8016
+#EXTINF:-1 tvg-logo=" " group-title="  [207] Berita Satu   rtp://239.1.1.183:9072
+#EXTINF:-1 tvg-logo=" " group-title="  [208] Lejel Home Shopping Live   rtp://239.1.2.3:7992
+#EXTINF:-1 tvg-logo=" " group-title="  [209] Net TV   rtp://239.1.1.119:8688
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [210] Disney Channel HD   rtp://239.1.1.201:9180
+#EXTINF:-1 tvg-logo=" " group-title="  [211] CGTN Documentary   rtp://239.1.1.121:8700
+#EXTINF:-1 tvg-logo=" " group-title="  [212] Dunia Lain   rtp://239.1.1.149:8868
+#EXTINF:-1 tvg-logo=" " group-title="  [213] Bioskop Indonesia   rtp://239.1.1.226:9332
+#EXTINF:-1 tvg-logo=" " group-title="  [214] Eat and Go   rtp://239.1.1.229:9350
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [215] HBO Hits HD   rtp://239.1.1.215:9264
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [216] FOX MOVIES HD   rtp://239.1.1.211:9240
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [217] FOX Life HD   rtp://239.1.1.209:9228
+#EXTINF:-1 tvg-logo=" " group-title="  [218] CNN Indonesia   rtp://239.1.1.241:9362
+#EXTINF:-1 tvg-logo=" " group-title="  [219] Duck TV   rtp:///239.1.1.63:8352
+#EXTINF:-1 tvg-logo=" " group-title="  [220] Euronews   rtp://239.1.1.193:9132
+#EXTINF:-1 tvg-logo=" " group-title="  [221] Daai TV   rtp://239.1.1.179:9048
+#EXTINF:-1 tvg-logo=" " group-title="  [222] Animax   rtp://239.1.1.64:8358
+#EXTINF:-1 tvg-logo=" " group-title="  [223] Cinema World   rtp://239.1.1.189:9108
+#EXTINF:-1 tvg-logo=" " group-title="  [224] DreamWorks   rtp://239.1.1.139:8808
+#EXTINF:-1 tvg-logo=" " group-title="  [225] BABY FIRST   rtp://239.1.1.157:8916
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [226] RED HD by HBO   rtp://239.1.1.133:8772
+#EXTINF:-1 tvg-logo=" " group-title="  [227] GALAXY TV   rtp://239.1.1.184:8778
+#EXTINF:-1 tvg-logo=" " group-title="  [228] PRAMBORS   rtp://239.1.1.227:9336
+#EXTINF:-1 tvg-logo=" " group-title="  [229] KPlus   rtp://239.1.1.242:9426
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [230] KPlus HD   rtp://239.1.1.202:9186
+#EXTINF:-1 tvg-logo=" " group-title="  [231] RED by HBO   rtp://239.1.1.114:8658
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [232] DreamWorks HD   rtp://239.1.1.234:9222
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [233] Flik HD   rtp://239.1.1.239:9276
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [234] ANIMAX HD   rtp://239.1.1.248:9494
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [235] ANIMAX HD   rtp://239.1.1.249:9496
+#EXTINF:-1 tvg-logo=" " group-title="  [236] Rodja TV   rtp://239.1.1.224:9320
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [237] NET TV HD   rtp://239.1.1.158:8922
+#EXTINF:-1 tvg-logo=" " group-title="  [238] MQTV   rtp://239.1.1.213:9252
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [239] FOX HD   rtp://239.1.1.247:9440
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [240] NATIONAL GEOGRAPHIC HD   rtp://239.1.1.243:9432
+#EXTINF:-1 tvg-logo=" " group-title="  [241] USee Photo   rtp://239.1.1.251:9498
+#EXTINF:-1 tvg-logo=" " group-title="  [242] JTV Surabaya   rtp://239.1.1.6:8010
+#EXTINF:-1 tvg-logo=" " group-title="  [243] Bali TV   rtp://239.1.1.72:8406
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [244] ANIMAX HD   rtp://239.1.2.203:9180
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [245] ANIMAX HD   rtp://239.1.2.205:9186
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [246] KIX HD   rtp://239.1.2.207:9190
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [247] TVN HD   rtp://239.1.2.211:9202
+#EXTINF:-1 tvg-logo=" " group-title=" HD Sports Channel", [248] FOX Sports HD   rtp://239.1.2.201:9174
+#EXTINF:-1 tvg-logo=" " group-title=" HD Sports Channel", [249] Fight Sports HD   rtp://239.1.2.209:9196
+#EXTINF:-1 tvg-logo=" " group-title="  [250] Antara TV   rtp://239.1.1.128:9218
+#EXTINF:-1 tvg-logo=" " group-title="  [251] TvMU   rtp://239.1.1.170:8994
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [252] Fox Action Movies HD   rtp://239.1.1.190:9116
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [253] NHK World Premium HD   rtp://239.1.1.174:9018
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [254] CNN Indonesia HD   rtp://239.1.1.180:9054
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [255] Trans TV HD   rtp://239.1.1.194:9138
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [256] ANIMAX HD   rtp://239.1.1.222:9306
+#EXTINF:-1 tvg-logo=" " group-title="  [257] USee Prime   rtp://239.1.1.216:9270
+#EXTINF:-1 tvg-logo=" " group-title="  [258] Citra Drama   rtp://239.1.1.44:8238
+#EXTINF:-1 tvg-logo=" " group-title="  [259] Horee Channel   rtp://239.1.1.68:8382
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [260] ANIMAX HD   rtp://239.1.1.55:8300
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [261] Channel V HD   rtp://239.1.2.235:9342
+#EXTINF:-1 tvg-logo=" " group-title="  [262] MSHOP SIGNATURE   rtp://239.1.1.36:8190
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [263] Fashion TV HD   rtp://239.1.2.237:9348
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [264] DW TVHD   rtp://239.1.2.243:9360
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [265] NHK World Japan HD   rtp://239.1.2.239:9354
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [266] FOX Crime HD   rtp://239.1.2.225:9318
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [267] Nat Geo People HD   rtp://239.1.2.229:9330
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [268] Star Chinese Movies HD   rtp://239.1.2.231:9336
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [269] HBO Family HD   rtp://239.1.2.245:9366
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [270] Cinemax HD   rtp://239.1.2.247:9372
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [271] HBO Signature HD   rtp://239.1.2.249:9378
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [272] KBS World HD   rtp://239.1.1.13:8052
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [273] Fashion One HD   rtp://239.1.1.14:8058
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [274] History HD   rtp://239.1.1.23:8112
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [275] CNN International HD   rtp://239.1.1.246:9438
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [276] AXN HD   rtp://239.1.1.245:9436
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [277] WakuWaku Japan HD   rtp://239.1.1.244:9434
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [278] Lifetime HD   rtp://239.1.1.25:8124
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [279] SCTV HD   rtp://239.1.2.58:8324
+#EXTINF:-1 tvg-logo=" " group-title="  [280] RRI NET   rtp://239.1.2.74:8420
+#EXTINF:-1 tvg-logo=" " group-title="  [281] JiTV   rtp://239.1.1.238:9400
+#EXTINF:-1 tvg-logo=" " group-title="  [282] MTATV   rtp://239.1.2.234:9374
+#EXTINF:-1 tvg-logo=" " group-title="  [283] WARNER SD   rtp://239.1.2.9:8028
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [284] WARNER HD   rtp://239.1.2.244:9078
+#EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [285] TVN Movies   rtp://239.1.1.61:8340
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [286] TVN Movies HD   rtp://239.1.2.72:8408
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [287] Metro TV HD   rtp://239.1.2.2:7986
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [288] CGTN Documentary HD   rtp://239.1.2.4:7998
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [289] Al Jazeera HD   rtp://239.1.2.8:8022
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [290] MTV Live HD   rtp://239.1.2.16:8070
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [291] ANIMAX HD   rtp://239.1.2.22:8106
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [292] CNA HD   rtp://239.1.2.23:8112
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [293] Nat Geo Wild HD   rtp://239.1.1.207:9216
+#EXTINF:-1 tvg-logo=" " group-title="  [294] SEA TODAY   rtp://239.1.2.68:8384
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [295] SEA TODAY HD   rtp://239.1.2.70:8396
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [296] BOOMERANG HD   rtp://239.1.1.163:8084
