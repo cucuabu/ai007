@@ -1,7 +1,6 @@
 #EXTM3U
 
-#HD Channel
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [005] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [005] Trans 7
 rtp://239.1.1.29:8148
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [050] BeIN Sport 1
 rtp://239.1.1.217:9204
@@ -9,11 +8,11 @@ rtp://239.1.1.217:9204
 rtp://239.1.1.221:9300
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [053] Fox Sports 3
 rtp://239.1.1.53:8292
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [058] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [058] France 24
 rtp://239.1.1.191:9120
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [062] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [062] CCTV4
 rtp://239.1.1.115:8664
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [063] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [063] CCTV4pip
 rtp://239.1.1.116:8670
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [064] HBO HD
 rtp://239.1.1.203:9192
@@ -31,13 +30,13 @@ rtp:0
 rtp://239.1.2.13:8052
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [074] GALAXY PREMIUM HD
 rtp://239.1.2.100:9518
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [076] ANIPLUS HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [076] ANIPLUS HD",UserChannelID=
 rtp://239.1.2.104:9526
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [078] HBO Signature Dolby HD
 rtp://239.1.2.116:9404
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [079] HBO DOLBY HD
 rtp://239.1.2.114:9428
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [080] Ruang Trampil HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [080] Ruang Trampil HD",UserChannelID=
 rtp://239.1.1.111:8640
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [082] Disney Jr HD
 rtp://239.1.2.75:8426
@@ -59,15 +58,15 @@ rtp://239.1.1.252:9486
 rtp://239.1.2.24:8118
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [106] HGTV HD
 rtp://239.1.2.34:8178
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [108] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [108] TV9 NU
 rtp://239.1.1.150:8874
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [110] Blue Ant Extreme HD
 rtp://239.1.1.112:8646
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [112] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [112] Champion TV 2
 rtp://239.1.2.219:9244
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [114] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [114] Champion TV 1 HD
 rtp://239.1.2.216:9226
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [115] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [115] Champion TV 1
 rtp://239.1.2.217:9232
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [119] Usee Sports 2
 rtp://239.1.2.215:9220
@@ -77,11 +76,11 @@ rtp://239.1.2.44:8122
 rtp://239.1.2.221:9250
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [123] Usee Sports 2 HD
 rtp://239.1.2.213:9210
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [129] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [129] Champion TV 2 HD
 rtp://239.1.2.218:9238
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [152] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [152] France 24 TVpip
 rtp://239.1.1.192:9126
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [157] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [157] TRANS7Pip
 rtp://239.1.1.30:8154
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [177] Discovery Channel HD
 rtp://239.1.2.78:7984
@@ -141,9 +140,9 @@ rtp://239.1.1.174:9018
 rtp://239.1.1.180:9054
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [255] Trans TV HD
 rtp://239.1.1.194:9138
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [256] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [256] Trans 7 HD
 rtp://239.1.1.222:9306
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [260] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [260] TV5 Monde
 rtp://239.1.1.55:8300
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [261] Channel V HD
 rtp://239.1.2.235:9342
@@ -193,7 +192,7 @@ rtp://239.1.2.4:7998
 rtp://239.1.2.8:8022
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [290] MTV Live HD
 rtp://239.1.2.16:8070
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [291] ANIMAX HD
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [291] FRANCE 24 HD
 rtp://239.1.2.22:8106
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [292] CNA HD
 rtp://239.1.2.23:8112
