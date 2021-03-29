@@ -524,8 +524,8 @@ rtp://239.1.1.24:8118
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Lifetime_us_hd.png/revision/latest/scale-to-width-down/800" group-title="HD Channel",[962] Lifetime HD
 rtp://239.1.1.25:8124
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/E%21_Entertainment_HD.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[963] E!Entertainment HD
-rtp://239.1.1.26:8130
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/E%21_Entertainment_HD.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[963] CNBC Indonesia
+rtp://239.1.2.94:9448
 
 #EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="HD Channel",[968] Star Chinese Movies HD
 rtp://239.1.2.231:9336
