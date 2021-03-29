@@ -27,71 +27,71 @@ rtp://239.1.1.169:8988
 rtp://239.1.1.35:8184
 #EXTINF:-1 tvg-logo=" " group-title=" KNOWLEDGE", [012] CrimeInvestigations   
 rtp://239.1.1.59:8328
-#EXTINF:-1 tvg-logo=" " group-title="  [013] History Channel   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [013] History Channel   
 rtp://239.1.1.57:8316
-#EXTINF:-1 tvg-logo=" " group-title="  [014] Disney Channel   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[014] Disney Channel   
 rtp://239.1.1.45:8244
-#EXTINF:-1 tvg-logo=" " group-title="  [015] Disney Junior   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[015] Disney Junior   
 rtp://239.1.1.47:8256
-#EXTINF:-1 tvg-logo=" " group-title="  [016] Da Vinci Learning   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[016] Da Vinci Learning   
 rtp://239.1.1.99:8568
-#EXTINF:-1 tvg-logo=" " group-title="  [017] Nickelodeon   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[017] Nickelodeon   
 rtp://239.1.1.41:8220
-#EXTINF:-1 tvg-logo=" " group-title="  [018] Nick JR   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[018] Nick JR   
 rtp://239.1.1.159:8928
-#EXTINF:-1 tvg-logo=" " group-title="  [019] Cartoon Network   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[019] Cartoon Network   
 rtp://239.1.1.123:8712
-#EXTINF:-1 tvg-logo=" " group-title="  [020] Boomerang   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[020] Boomerang   
 rtp://239.1.1.73:8412
-#EXTINF:-1 tvg-logo=" " group-title="  [021] Fashion TV   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[021] Fashion TV   
 rtp://239.1.1.79:8448
 #EXTINF:-1 tvg-logo=" " group-title=" KNOWLEDGE", [022] Nat Geo People   
 rtp://239.1.1.67:8376
-#EXTINF:-1 tvg-logo=" " group-title="  [023] TV Live   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[023] TV Live   
 rtp://239.1.1.5:8004
-#EXTINF:-1 tvg-logo=" " group-title="  [024] Channel V   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[024] Channel V   
 rtp://239.1.1.173:9012
-#EXTINF:-1 tvg-logo=" " group-title="  [025] FOX Life   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[025] FOX Life   
 rtp://239.1.1.171:9000
-#EXTINF:-1 tvg-logo=" " group-title="  [026] Lifetime   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[026] Lifetime   
 rtp://239.1.1.181:9266
-#EXTINF:-1 tvg-logo=" " group-title="  [027] KIX   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[027] KIX   
 rtp://239.1.1.81:8460
-#EXTINF:-1 tvg-logo=" " group-title="  [028] AXN   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[028] AXN   
 rtp://239.1.1.137:8796
-#EXTINF:-1 tvg-logo=" " group-title="  [029] Blue Ant Entertaiment   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[029] Blue Ant Entertaiment   
 rtp://239.1.1.141:8820
-#EXTINF:-1 tvg-logo=" " group-title="  [030] FOX   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[030] FOX   
 rtp://239.1.1.43:8232
-#EXTINF:-1 tvg-logo=" " group-title="  [031] TvN   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[031] TvN   
 rtp://239.1.1.135:8784
-#EXTINF:-1 tvg-logo=" " group-title="  [032] KBS World   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[032] KBS World   
 rtp://239.1.1.167:8976
-#EXTINF:-1 tvg-logo=" " group-title="  [033] Aniplus   
+#EXTINF:-1 tvg-logo=" " group-title="  ",[033] Aniplus   
 rtp://239.1.1.117:8676
-#EXTINF:-1 tvg-logo=" " group-title="  [034] NHK World Premium   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [034] NHK World Premium   
 rtp://239.1.1.165:8964
-#EXTINF:-1 tvg-logo=" " group-title="  [035] WakuWaku Japan   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [035] WakuWaku Japan   
 rtp://239.1.1.75:8424
-#EXTINF:-1 tvg-logo=" " group-title="  [036] Star Chinese   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [036] Star Chinese   
 rtp://239.1.1.153:8892
-#EXTINF:-1 tvg-logo=" " group-title="  [037] HBO   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [037] HBO   
 rtp://239.1.1.95:8544
-#EXTINF:-1 tvg-logo=" " group-title="  [038] HBO Signature   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [038] HBO Signature   
 rtp://239.1.1.93:8532
-#EXTINF:-1 tvg-logo=" " group-title="  [039] CINEMAX   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [039] CINEMAX   
 rtp://239.1.1.87:8496
-#EXTINF:-1 tvg-logo=" " group-title="  [040] HBO Hits   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [040] HBO Hits   
 rtp://239.1.1.91:8520
-#EXTINF:-1 tvg-logo=" " group-title="  [041] HBO Family   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [041] HBO Family   
 rtp://239.1.1.89:8508
 #EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [042] FOX MOVIES   
 rtp://239.1.1.11:8040
-#EXTINF:-1 tvg-logo=" " group-title="  [043] FOX Family   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [043] FOX Family   
 rtp://239.1.1.175:9024
 #EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [044] FOX Action Movies   
 rtp://239.1.1.125:8724
-#EXTINF:-1 tvg-logo=" " group-title="  [045] Thrill   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [045] Thrill   
 rtp://239.1.1.83:8472
 #EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [046] Celestial Movies   
 rtp://239.1.1.97:8556
@@ -99,7 +99,7 @@ rtp://239.1.1.97:8556
 rtp://239.1.1.131:8760
 #EXTINF:-1 tvg-logo=" " group-title=" MOVIE", [048] Star Chinese Movie Legend   
 rtp://239.1.1.151:8880
-#EXTINF:-1 tvg-logo=" " group-title="  [049] Z Bioskop   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [049] Z Bioskop   
 rtp://239.1.1.129:8748
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [050] ANIMAX HD   
 rtp://239.1.1.217:9204
@@ -109,21 +109,21 @@ rtp://239.1.1.221:9300
 rtp://239.1.1.177:9036
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [053] ANIMAX HD   
 rtp://239.1.1.53:8292
-#EXTINF:-1 tvg-logo=" " group-title="  [054] CNN   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [054] CNN   
 rtp://239.1.1.105:8604
-#EXTINF:-1 tvg-logo=" " group-title="  [055] Bloomberg   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [055] Bloomberg   
 rtp://239.1.1.199:9168
-#EXTINF:-1 tvg-logo=" " group-title="  [056] CNA   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [056] CNA   
 rtp://239.1.1.65:8364
-#EXTINF:-1 tvg-logo=" " group-title="  [057] Al Jazeera   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [057] Al Jazeera   
 rtp://239.1.1.195:9144
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [058] ANIMAX HD   
 rtp://239.1.1.191:9120
-#EXTINF:-1 tvg-logo=" " group-title="  [059] DWTV   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [059] DWTV   
 rtp://239.1.1.187:9096
-#EXTINF:-1 tvg-logo=" " group-title="  [060] ABC Australia   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [060] ABC Australia   
 rtp://239.1.1.33:8172
-#EXTINF:-1 tvg-logo=" " group-title="  [061] Arirang   
+#EXTINF:-1 tvg-logo=" " group-title=" ", [061] Arirang   
 rtp://239.1.1.147:8856
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [062] ANIMAX HD   
 rtp://239.1.1.115:8664
