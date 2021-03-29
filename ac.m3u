@@ -1,7 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [001] TVRI   rtp://239.1.1.37:8196
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [002] Metro TV   rtp://239.1.1.19:8088
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [003] TV One   rtp://239.1.1.31:8160
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [001] TVRI   
+rtp://239.1.1.37:8196
+
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [002] Metro TV   
+rtp://239.1.1.19:8088
+
+#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [003] TV One   
+rtp://239.1.1.31:8160
 #EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [004] Trans TV   rtp://239.1.1.27:8136
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [005] ANIMAX HD   rtp://239.1.1.29:8148
 #EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [006] ANTV   rtp://239.1.1.15:8064
