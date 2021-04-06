@@ -30,13 +30,13 @@ rtp:0
 rtp://239.1.2.13:8052
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [074] GALAXY PREMIUM HD
 rtp://239.1.2.100:9518
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [076] ANIPLUS HD",UserChannelID=
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [076] ANIPLUS HD
 rtp://239.1.2.104:9526
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [078] HBO Signature Dolby HD
 rtp://239.1.2.116:9404
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [079] HBO DOLBY HD
 rtp://239.1.2.114:9428
-#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [080] Ruang Trampil HD",UserChannelID=
+#EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [080] Ruang Trampil HD
 rtp://239.1.1.111:8640
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [082] Disney Jr HD
 rtp://239.1.2.75:8426
