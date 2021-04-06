@@ -214,17 +214,17 @@ rtp://239.1.1.59:8328
 rtp://239.1.1.67:8376
 
 #Local Channel
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [001] TVRI
+#EXTINF:-1 tvg-logo=" " group-title=" Lokal Channel", [001] TVRI
 rtp://239.1.1.37:8196
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [002] Metro TV
+#EXTINF:-1 tvg-logo=" " group-title=" Lokal Channel", [002] Metro TV
 rtp://239.1.1.19:8088
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [003] TV One
+#EXTINF:-1 tvg-logo=" " group-title=" Lokal Channel", [003] TV One
 rtp://239.1.1.31:8160
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [004] Trans TV
+#EXTINF:-1 tvg-logo=" " group-title=" Lokal Channel", [004] Trans TV
 rtp://239.1.1.27:8136
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [006] ANTV
+#EXTINF:-1 tvg-logo=" " group-title=" Lokal Channel", [006] ANTV
 rtp://239.1.1.15:8064
-#EXTINF:-1 tvg-logo=" " group-title=" Local Channel", [007] Kompas TV
+#EXTINF:-1 tvg-logo=" " group-title=" Lokal Channel", [007] Kompas TV
 rtp://239.1.1.197:9156
 
 #MOVIE
