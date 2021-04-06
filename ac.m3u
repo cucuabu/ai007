@@ -434,7 +434,7 @@ rtp://239.1.1.107:8616
 rtp://239.1.1.185:9084
 #EXTINF:-1 tvg-logo=" " group-title=" KIDS", [206] Dunia Anak
 rtp://239.1.1.7:8016
-#EXTINF:-1 tvg-logo=" " group-title="NEWS", [207] Berita Satu
+#EXTINF:-1 tvg-logo=" " group-title=" NEWS", [207] Berita Satu
 rtp://239.1.1.183:9072
 #EXTINF:-1 tvg-logo=" " group-title=" Not Setting Yet", [208] Lejel Home Shopping Live
 rtp://239.1.2.3:7992
