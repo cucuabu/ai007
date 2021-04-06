@@ -34,7 +34,7 @@ rtp://239.1.2.100:9518
 rtp://239.1.2.104:9526
 #EXTINF:-1 tvg-logo=" " group-title=" DOLBY ", [078] HBO Signature Dolby HD
 rtp://239.1.2.116:9404
-#EXTINF:-1 tvg-logo=" " group-title=" DOLBY", [079] HBO DOLBY HD
+#EXTINF:-1 tvg-logo=" " group-title=" DOLBY ", [079] HBO DOLBY HD
 rtp://239.1.2.114:9428
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [080] Ruang Trampil HD
 rtp://239.1.1.111:8640
@@ -96,7 +96,7 @@ rtp://239.1.2.81:8083
 rtp://239.1.1.101:8580
 #EXTINF:-1 tvg-logo=" " group-title=" KIDS", [210] Disney Channel HD
 rtp://239.1.1.201:9180
-#EXTINF:-1 tvg-logo=" " group-title=" DOLBY", [215] HBO Hits HD
+#EXTINF:-1 tvg-logo=" " group-title=" DOLBY ", [215] HBO Hits HD
 rtp://239.1.1.215:9264
 #EXTINF:-1 tvg-logo=" " group-title=" HD Channel", [216] FOX MOVIES HD
 rtp://239.1.1.211:9240
